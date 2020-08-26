@@ -1,0 +1,2 @@
+# X509 certificate authority application
+This project consisted of implementing an X509 certificate parser, creator and signer using the BouncyCastle library. The main goal was to successfully establish an SSL connection using one of the certificates issued by the application.

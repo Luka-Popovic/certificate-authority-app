@@ -1,0 +1,4 @@
+EC
+certificate policies
+subject alternative name
+inhibit any policy
